@@ -1,0 +1,5 @@
+Voz sobre IP, também chamada de VoIP (Voice over Internet Protocol), telefonia IP, telefonia Internet, telefonia em banda larga ou voz sobre banda larga é o roteamento de conversação humana usando a Internet ou qualquer outra rede de computadores baseada no Protocolo de Internet, tornando a transmissão de voz mais um dos serviços suportados pela rede de dados.
+
+Empresas que fornecem o serviço de VoIP são geralmente chamadas provedoras, e os protocolos usados para transportar os sinais de voz em uma rede IP são geralmente chamados protocolos VoIP. Existe uma redução de custo devido ao uso de uma única rede para carregar dados e voz, especialmente quando os utilizadores já possuem uma rede com capacidade subutilizada, que pode transportar dados VoIP sem custo adicional. Chamadas de VoIP para VoIP no geral são gratuitas, enquanto chamadas VoIP para redes públicas (PSTN) podem ter custo para o utilizador VoIP.
+
+Considera-se a telefonia IP a agregação do VoIP com outros serviços agregados para a telefonia.

@@ -1,0 +1,13 @@
+====== Página Inicial da Wiki da Voxcity Telecom ======
+Aqui na [[http://www.voxcity.com.br/|Voxcity]] você vai aprender tudo sobre [[pagename | Telefonia Digital]], [[SIP | SIP ]]e [[PABX]]. 
+
+ =====Como funciona a Telefonia Digital =====
+Voz sobre IP, também chamada de VoIP (Voice over Internet Protocol), telefonia IP, telefonia Internet, telefonia em banda larga ou voz sobre banda larga é o roteamento de conversação humana usando a Internet ou qualquer outra rede de computadores baseada no Protocolo de Internet, tornando a transmissão de voz mais um dos serviços suportados pela rede de dados.
+
+ =====O que é VoIP =====
+VoIP é um protocolo (serie de padrões) de comunicação de áudio que utiliza os protocolos IP,[[SIP]] e [[UDP]] como base, possibilitando o envio e recebimento de video e audio através da internet.
+VoIP é extremamente popular e utilizado no mundo todo o tempo todo, como por exemplo, nas ligações via Whatsapp, Skype e em Jogos Eletrônicos.
+=====VoIP é confiavél?=====
+Sim, apesar de ter tido um inicio conturbado, atualmente o protocolo VoIP é extremamente confiável, necessitando apenas uma conexão estável com a internet para funcionar.
+=====Como utilizar?=====
+Aqui na Vox, você pode usufruir da tecnologia VoIP utilizando aparelhos de telefone IP ([[GXP | Clique aqui para aprender a configurar um Telefone IP]]), aparelhos de telefones analógicos conectados em um Adaptador de Telefone Analógico ([[ATA | Clique aqui para aprender a configurar um ATA]]) ou aplicativos Softphones ([[MicroSip |Clique aqui para aprender a configurar o MicroSIP]]).

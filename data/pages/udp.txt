@@ -1,0 +1,2 @@
+===== O que é? =====
+UDP (User Datagram Protocol) é um protocolo simples de entrega de dados sem confirmação de recebimento que opera na camada de transporte, muito popular para serviços que exigem comunicação em tempo real, como video-chamadas, telefonia VoIP e transmissões ao vivo

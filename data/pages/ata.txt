@@ -1,0 +1,13 @@
+====== Adaptador para Telefone Analógico - ATA ======
+Aqui na vox, utilizamos ATAs das marcas Grandstream e Intelbras, veja a baixo como configurar seu ATA
+
+===== Grandstream=====
+==== Como acessar seu ATA====
+==== Como descobrir o IP====
+==== Como configurar um ramal====
+
+===== Intelbras =====
+
+==== Como acessar seu ATA====
+==== Como descobrir o IP====
+==== Como configurar um ramal====

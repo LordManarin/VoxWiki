@@ -1,0 +1,20 @@
+1612296672	127.0.0.1	E	start	voxcity	[O que é VoIP] 		11
+1612296778	127.0.0.1	E	sip	voxcity			-1154
+1612296977	127.0.0.1	C	udp	voxcity	criada		291
+1612297172	127.0.0.1	E	start	voxcity			-4
+1612297311	127.0.0.1	E	start	voxcity			-684
+1612297635	127.0.0.1	E	start	voxcity			-1251
+1612297811	127.0.0.1	E	start	voxcity			-22
+1612297876	127.0.0.1	C	pabx	voxcity	criada		36
+1612298414	127.0.0.1	E	pabx	voxcity			536
+1612298769	127.0.0.1	C	gxp	voxcity	criada		198
+1612298998	127.0.0.1	C	ata	voxcity	criada		204
+1612299010	127.0.0.1	E	ata	voxcity	[Adaptador para Telefone Analógico - ATA] 		0
+1612299017	127.0.0.1	E	ata	voxcity			0
+1612299026	127.0.0.1	E	ata	voxcity			0
+1612299103	127.0.0.1	C	microsip	voxcity	criada		140
+1612299185	127.0.0.1	E	gxp	voxcity	[Como configurar um GXP] 		160
+1612299233	127.0.0.1	E	gxp	voxcity			132
+1612299262	127.0.0.1	E	gxp	voxcity			1
+1612299395	127.0.0.1	E	ata	voxcity	[Grandstream] 		92
+1612299405	127.0.0.1	E	ata	voxcity			95

@@ -1,0 +1,7 @@
+====== O que é?======
+O Protocolo de Iniciação de Sessão (Session Initiation Protocol - SIP) é um protocolo de código aberto de aplicação, que utiliza o modelo “requisição-resposta”, similar ao HTTP, para iniciar sessões de comunicação interativa entre utilizadores. É um padrão da Internet Engineering Task Force (IETF) (RFC 2543, 1999.).
+
+SIP é um protocolo de sinal que serve para estabelecer chamadas e conferências através de redes via Protocolo IP, um exemplo típico seria o VoIP. O estabelecimento, mudança ou término da sessão é independente do tipo de mídia ou aplicação que será usada na chamada; uma chamada pode utilizar diferentes tipos de dados, incluindo áudio e vídeo.
+
+===== portas =====
+Por padrão, o SIP utiliza as portas 5060 a 5070

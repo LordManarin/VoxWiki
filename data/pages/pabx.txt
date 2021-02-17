@@ -1,0 +1,7 @@
+======PABX======
+
+=====O que é?=====
+Private Automatic Branch Exchange (PABX), ou Troca de Ramais Automática, é a evolução das antigas centrais analógicas de ramais de forma totalmente digital.
+
+=====Para que serve?=====
+Um PABX serve para automatizar e digitalizar os ramais telefônicos, utilizando o protocolo VoIP, este sistema conecta os ramais na central telefônica digital ([[UCM]] ou [[InCloud]]) através da internet, sem a necessidade de conectar cada ramal manualmente, um a um, na central telefônica através de cabos, reduzindo custos e manutenção.

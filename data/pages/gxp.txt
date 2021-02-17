@@ -1,0 +1,16 @@
+======Telefone IP======
+
+Aqui na vox, você irá utilizar os telefones IP chamados de GXP da empresa Grandstream.
+Veja abaixo como configurar e utilizar o seu GXP.
+
+=====Como configurar um GXP =====
+==== Descobrindo o IP ====
+==== Configurando um ramal SIP ====
+==== Ativando o STUN====
+==== Atualizando o firmware ====
+==== Utilizando mais de um ramal =====
+
+===== Como utilizar um GXP =====
+==== Como fazer chamadas ====
+==== Como transferir ligações ====
+==== Como puxar ligações ====
